@@ -1,0 +1,12 @@
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\bin\Debug\PiServer.exe
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\bin\Debug\PiServer.pdb
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\PiServer.Form1.resources
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\PiServer.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\PiServer.exe
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\PiServer.pdb
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\bin\Debug\PiServer.exe.config
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiServer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

@@ -1,0 +1,9 @@
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\bin\Debug\PiClient.exe
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\bin\Debug\PiClient.pdb
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\obj\x86\Debug\PiClient.Form1.resources
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\obj\x86\Debug\PiClient.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\obj\x86\Debug\PiClient.exe
+c:\users\anton\documents\visual studio 2010\Projects\PiServer\PiClient\obj\x86\Debug\PiClient.pdb
